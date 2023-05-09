@@ -24,4 +24,5 @@ Estudando Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia. Apa
 
 Abaixo possui outras linguagens a qual já mexi um pouco:
 
-![snake gif](https://github.com/zGuilhermeTM/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/zGuilhermeTM/zGuilhermeTM/blob/output/github-contribution-grid-snake.svg)
